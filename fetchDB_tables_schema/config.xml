@@ -1,0 +1,5 @@
+<credentials>
+    <DRIVER>ODBC Driver 17 for SQL Server</DRIVER>
+    <SERVER>your_server_name</SERVER>
+    <DATABASE>master</DATABASE>
+</credentials>
